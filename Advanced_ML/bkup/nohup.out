@@ -1,0 +1,50 @@
+[I 00:04:02.035 NotebookApp] Serving notebooks from local directory: /home/ec2-user/src/lach
+[I 00:04:02.035 NotebookApp] 0 active kernels 
+[I 00:04:02.035 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 00:04:02.035 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 00:04:13.169 NotebookApp] 302 GET / (216.228.112.22) 0.69ms
+[W 00:04:19.711 NotebookApp] Notebook drted_tutorial_v3.ipynb is not trusted
+[W 00:04:19.751 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160914000401 (216.228.112.22) 8.58ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[I 00:04:20.592 NotebookApp] Kernel started: 68e2b186-6392-4403-b2e5-315f200f59f8
+[W 00:04:20.600 NotebookApp] 404 GET /notebooks/images/drted_rnn.svg (216.228.112.22): No such file or directory: images/drted_rnn.svg
+[W 00:04:20.601 NotebookApp] 404 GET /notebooks/images/drted_rnn.svg (216.228.112.22) 1.86ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[W 00:04:20.602 NotebookApp] 404 GET /notebooks/images/imputation_diagram.svg (216.228.112.22): No such file or directory: images/imputation_diagram.svg
+[W 00:04:20.603 NotebookApp] 404 GET /notebooks/images/imputation_diagram.svg (216.228.112.22) 1.61ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[W 00:04:20.604 NotebookApp] 404 GET /notebooks/images/ehr.svg (216.228.112.22): No such file or directory: images/ehr.svg
+[W 00:04:20.605 NotebookApp] 404 GET /notebooks/images/ehr.svg (216.228.112.22) 1.63ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[W 00:04:20.675 NotebookApp] 404 GET /notebooks/images/RNN_performance.svg (216.228.112.22): No such file or directory: images/RNN_performance.svg
+[W 00:04:20.676 NotebookApp] 404 GET /notebooks/images/RNN_performance.svg (216.228.112.22) 1.73ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[W 00:04:20.682 NotebookApp] 404 GET /notebooks/images/MortalityThroughTime.svg (216.228.112.22): No such file or directory: images/MortalityThroughTime.svg
+[W 00:04:20.683 NotebookApp] 404 GET /notebooks/images/MortalityThroughTime.svg (216.228.112.22) 1.71ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[I 00:06:20.910 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:06:20.911 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[I 00:10:20.750 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:10:20.751 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[I 00:12:20.665 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:12:20.666 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[I 00:14:20.651 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:14:20.652 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[W 00:16:37.551 NotebookApp] 404 GET /notebooks/data/ehr_features.csv (216.228.112.22): No such file or directory: data/ehr_features.csv
+[W 00:16:37.553 NotebookApp] 404 GET /notebooks/data/ehr_features.csv (216.228.112.22) 2.31ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[I 00:18:20.968 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:18:20.969 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[W 00:18:22.126 NotebookApp] 404 GET /notebooks/images/ehr.svg (216.228.112.22): No such file or directory: images/ehr.svg
+[W 00:18:22.128 NotebookApp] 404 GET /notebooks/images/ehr.svg (216.228.112.22) 2.54ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[I 00:18:23.428 NotebookApp] 302 GET /notebooks/ehr_features.csv (216.228.112.22) 1.29ms
+[I 00:20:20.731 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:20:20.732 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[I 00:22:20.642 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:22:20.643 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[I 00:54:27.783 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:54:27.784 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[I 00:56:26.516 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:56:26.517 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[W 00:57:46.624 NotebookApp] 404 GET /notebooks/images/imputation_diagram.svg (216.228.112.22): No such file or directory: images/imputation_diagram.svg
+[W 00:57:46.626 NotebookApp] 404 GET /notebooks/images/imputation_diagram.svg (216.228.112.22) 2.45ms referer=https://ec2-54-164-221-160.compute-1.amazonaws.com:8888/notebooks/drted_tutorial_v3.ipynb
+[I 00:58:26.371 NotebookApp] Saving file at /drted_tutorial_v3.ipynb
+[W 00:58:26.372 NotebookApp] Saving untrusted notebook drted_tutorial_v3.ipynb
+[W 01:00:21.422 NotebookApp] WebSocket ping timeout after 119856 ms.
+[W 04:47:32.552 NotebookApp] SSL Error on 9 ('222.186.56.87', 2631): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[C 05:16:23.302 NotebookApp] received signal 15, stopping
+[I 05:16:23.303 NotebookApp] Shutting down kernels
+[I 05:16:23.505 NotebookApp] Kernel shutdown: 68e2b186-6392-4403-b2e5-315f200f59f8
